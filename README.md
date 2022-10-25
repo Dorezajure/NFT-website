@@ -1,1 +1,12 @@
-# NFT-website
+# NFT-website![ethereum](https://user-images.githubusercontent.com/103295803/197796365-5c1a701e-47bb-4050-babb-649ff8388f8f.svg)
+<img width="591" alt="heroimage" src="https://user-images.githubusercontent.com/103295803/197796381-2b16331e-79cf-4dbe-8c87-0921e27ac4b6.png">
+![image 01](https://user-images.githubusercontent.com/103295803/197796403-cedade1c-9e5d-4796-91ae-311a44c09aff.png)
+![image 02](https://user-images.githubusercontent.com/103295803/197796411-b43093ef-a7ec-42e0-8929-59c8046e4154.png)
+![image 03](https://user-images.githubusercontent.com/103295803/197796416-37ac5abf-f9e9-4ffa-8f19-45088c36ff2f.png)
+![logo](https://user-images.githubusercontent.com/103295803/197796423-a3b42d8c-3808-435f-846e-68d53c681d73.svg)
+![menu-mobile](https://user-images.githubusercontent.com/103295803/197796429-ed7f70bf-7cb1-4c2c-b0b1-13e51e858332.svg)
+![search](https://user-images.githubusercontent.com/103295803/197796432-457d1d4e-0d99-48eb-9a28-b4b023b454ae.svg)
+![search-mobile](https://user-images.githubusercontent.com/103295803/197796438-f7fa1bc5-0930-45ea-8226-79a95ebd2308.svg)
+![binance](https://user-images.githubusercontent.com/103295803/197796449-35e5a653-97e4-43b9-bc9b-54dde67d42d7.svg)
+![blockchain](https://user-images.githubusercontent.com/103295803/197796453-8c35933a-9288-4b31-b879-c19f5d6794c4.svg)
+![border](https://user-images.githubusercontent.com/103295803/197796463-cb899256-1c33-4c82-a659-e77851f3d209.svg)
